@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/essayHelper/static/css/main.70786b38.css",
+    "main.js": "/essayHelper/static/js/main.02787b42.js",
+    "index.html": "/essayHelper/index.html",
+    "main.70786b38.css.map": "/essayHelper/static/css/main.70786b38.css.map",
+    "main.02787b42.js.map": "/essayHelper/static/js/main.02787b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70786b38.css",
+    "static/js/main.02787b42.js"
+  ]
+}
